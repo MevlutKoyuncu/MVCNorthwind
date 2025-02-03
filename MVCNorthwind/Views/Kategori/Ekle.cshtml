@@ -1,0 +1,43 @@
+﻿@model MVCNorthwind.Models.Categories
+@{
+    ViewBag.Title = "Ekle";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+@section stiller{
+    <link href="~/Assets/CSS/FormLayout.css" rel="stylesheet" />
+}
+<h2>Ekle</h2>
+<hr />
+<div class="formtasiyici">
+
+    @if (ViewBag.basarili != null)
+    {
+        <div class="basarili">
+            <label>Ekleme işlemi başarılı</label>
+        </div>
+    }
+    @if (ViewBag.basarisiz != null)
+    {
+        <div class="basarisiz">
+            <label>@ViewBag.basarisiz</label>
+        </div>
+    }
+    @using (Html.BeginForm())
+    {
+        <div class="satir">
+            <label>Kategori Adı</label><br />
+            @Html.EditorFor(x => x.CategoryName, new { htmlAttributes = new { @class = "metinKutu" } })
+        </div>
+        <div class="satir">
+            <label>Açıklama</label><br />
+            @Html.EditorFor(x => x.Description, new { htmlAttributes = new { @class = "metinKutu" } })
+        </div>
+        <div class="satir">
+            <input type="submit" value="Ekle" class="eklebutton" />
+        </div>
+        <div>
+
+
+        </div>
+    }
+</div>
