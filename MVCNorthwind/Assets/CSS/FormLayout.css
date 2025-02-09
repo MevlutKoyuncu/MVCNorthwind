@@ -4,7 +4,7 @@
 .formtasiyici {
     border: 1px solid silver;
     width: 100%;
-    padding: 10px;
+    padding: 10px 5px;
 }
 
 .satir {
@@ -19,6 +19,6 @@
     .satir .eklebutton {
         padding: 15px 35px;
         background-color: aqua;
-        color: darkblue;
+        color: red;
         font-weight: 900;
     }

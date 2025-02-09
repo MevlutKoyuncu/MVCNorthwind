@@ -3,32 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Mevlut\\source\\repos\\MVCNorthwind\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9F74AC0E-4316-44AB-850F-FE92732D7C35}|MVCNorthwind\\MVCNorthwind.csproj|C:\\Users\\Mevlut\\source\\repos\\MVCNorthwind\\mvcnorthwind\\views\\kategori\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9F74AC0E-4316-44AB-850F-FE92732D7C35}|MVCNorthwind\\MVCNorthwind.csproj|c:\\users\\mevlut\\source\\repos\\mvcnorthwind\\mvcnorthwind\\views\\urun\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F74AC0E-4316-44AB-850F-FE92732D7C35}|MVCNorthwind\\MVCNorthwind.csproj|solutionrelative:mvcnorthwind\\views\\urun\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F74AC0E-4316-44AB-850F-FE92732D7C35}|MVCNorthwind\\MVCNorthwind.csproj|c:\\users\\mevlut\\source\\repos\\mvcnorthwind\\mvcnorthwind\\controllers\\uruncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F74AC0E-4316-44AB-850F-FE92732D7C35}|MVCNorthwind\\MVCNorthwind.csproj|solutionrelative:mvcnorthwind\\controllers\\uruncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F74AC0E-4316-44AB-850F-FE92732D7C35}|MVCNorthwind\\MVCNorthwind.csproj|c:\\users\\mevlut\\source\\repos\\mvcnorthwind\\mvcnorthwind\\views\\urun\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F74AC0E-4316-44AB-850F-FE92732D7C35}|MVCNorthwind\\MVCNorthwind.csproj|solutionrelative:mvcnorthwind\\views\\urun\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F74AC0E-4316-44AB-850F-FE92732D7C35}|MVCNorthwind\\MVCNorthwind.csproj|c:\\users\\mevlut\\source\\repos\\mvcnorthwind\\mvcnorthwind\\views\\urun\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F74AC0E-4316-44AB-850F-FE92732D7C35}|MVCNorthwind\\MVCNorthwind.csproj|solutionrelative:mvcnorthwind\\views\\urun\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F74AC0E-4316-44AB-850F-FE92732D7C35}|MVCNorthwind\\MVCNorthwind.csproj|c:\\users\\mevlut\\source\\repos\\mvcnorthwind\\mvcnorthwind\\views\\kategori\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F74AC0E-4316-44AB-850F-FE92732D7C35}|MVCNorthwind\\MVCNorthwind.csproj|solutionrelative:mvcnorthwind\\views\\kategori\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F74AC0E-4316-44AB-850F-FE92732D7C35}|MVCNorthwind\\MVCNorthwind.csproj|c:\\users\\mevlut\\source\\repos\\mvcnorthwind\\mvcnorthwind\\views\\kategori\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F74AC0E-4316-44AB-850F-FE92732D7C35}|MVCNorthwind\\MVCNorthwind.csproj|solutionrelative:mvcnorthwind\\views\\kategori\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F74AC0E-4316-44AB-850F-FE92732D7C35}|MVCNorthwind\\MVCNorthwind.csproj|c:\\users\\mevlut\\source\\repos\\mvcnorthwind\\mvcnorthwind\\controllers\\kategoricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F74AC0E-4316-44AB-850F-FE92732D7C35}|MVCNorthwind\\MVCNorthwind.csproj|solutionrelative:mvcnorthwind\\controllers\\kategoricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9F74AC0E-4316-44AB-850F-FE92732D7C35}|MVCNorthwind\\MVCNorthwind.csproj|c:\\users\\mevlut\\source\\repos\\mvcnorthwind\\mvcnorthwind\\views\\kategori\\duzenle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F74AC0E-4316-44AB-850F-FE92732D7C35}|MVCNorthwind\\MVCNorthwind.csproj|solutionrelative:mvcnorthwind\\views\\kategori\\duzenle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F74AC0E-4316-44AB-850F-FE92732D7C35}|MVCNorthwind\\MVCNorthwind.csproj|C:\\Users\\Mevlut\\source\\repos\\MVCNorthwind\\mvcnorthwind\\views\\shared\\_layoutpage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9F74AC0E-4316-44AB-850F-FE92732D7C35}|MVCNorthwind\\MVCNorthwind.csproj|c:\\users\\mevlut\\source\\repos\\mvcnorthwind\\mvcnorthwind\\views\\shared\\_layoutpage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F74AC0E-4316-44AB-850F-FE92732D7C35}|MVCNorthwind\\MVCNorthwind.csproj|solutionrelative:mvcnorthwind\\views\\shared\\_layoutpage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F74AC0E-4316-44AB-850F-FE92732D7C35}|MVCNorthwind\\MVCNorthwind.csproj|C:\\Users\\Mevlut\\source\\repos\\MVCNorthwind\\mvcnorthwind\\controllers\\kategoricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F74AC0E-4316-44AB-850F-FE92732D7C35}|MVCNorthwind\\MVCNorthwind.csproj|solutionrelative:mvcnorthwind\\controllers\\kategoricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F74AC0E-4316-44AB-850F-FE92732D7C35}|MVCNorthwind\\MVCNorthwind.csproj|C:\\Users\\Mevlut\\source\\repos\\MVCNorthwind\\mvcnorthwind\\views\\kategori\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9F74AC0E-4316-44AB-850F-FE92732D7C35}|MVCNorthwind\\MVCNorthwind.csproj|solutionrelative:mvcnorthwind\\views\\kategori\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F74AC0E-4316-44AB-850F-FE92732D7C35}|MVCNorthwind\\MVCNorthwind.csproj|C:\\Users\\Mevlut\\source\\repos\\MVCNorthwind\\mvcnorthwind\\assets\\css\\basiclayout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{9F74AC0E-4316-44AB-850F-FE92732D7C35}|MVCNorthwind\\MVCNorthwind.csproj|solutionrelative:mvcnorthwind\\assets\\css\\basiclayout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F74AC0E-4316-44AB-850F-FE92732D7C35}|MVCNorthwind\\MVCNorthwind.csproj|C:\\Users\\Mevlut\\source\\repos\\MVCNorthwind\\mvcnorthwind\\assets\\css\\formlayout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{9F74AC0E-4316-44AB-850F-FE92732D7C35}|MVCNorthwind\\MVCNorthwind.csproj|c:\\users\\mevlut\\source\\repos\\mvcnorthwind\\mvcnorthwind\\assets\\css\\formlayout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{9F74AC0E-4316-44AB-850F-FE92732D7C35}|MVCNorthwind\\MVCNorthwind.csproj|solutionrelative:mvcnorthwind\\assets\\css\\formlayout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F74AC0E-4316-44AB-850F-FE92732D7C35}|MVCNorthwind\\MVCNorthwind.csproj|c:\\users\\mevlut\\source\\repos\\mvcnorthwind\\mvcnorthwind\\assets\\css\\basiclayout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9F74AC0E-4316-44AB-850F-FE92732D7C35}|MVCNorthwind\\MVCNorthwind.csproj|solutionrelative:mvcnorthwind\\assets\\css\\basiclayout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +54,154 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mevlut\\source\\repos\\MVCNorthwind\\MVCNorthwind\\Views\\Urun\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVCNorthwind\\Views\\Urun\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Mevlut\\source\\repos\\MVCNorthwind\\MVCNorthwind\\Views\\Urun\\Edit.cshtml",
+              "RelativeToolTip": "MVCNorthwind\\Views\\Urun\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T15:25:37.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mevlut\\source\\repos\\MVCNorthwind\\MVCNorthwind\\Views\\Urun\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCNorthwind\\Views\\Urun\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mevlut\\source\\repos\\MVCNorthwind\\MVCNorthwind\\Views\\Urun\\Index.cshtml",
+              "RelativeToolTip": "MVCNorthwind\\Views\\Urun\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T15:08:00.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Duzenle.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mevlut\\source\\repos\\MVCNorthwind\\MVCNorthwind\\Views\\Kategori\\Duzenle.cshtml",
+              "RelativeDocumentMoniker": "MVCNorthwind\\Views\\Kategori\\Duzenle.cshtml",
+              "ToolTip": "C:\\Users\\Mevlut\\source\\repos\\MVCNorthwind\\MVCNorthwind\\Views\\Kategori\\Duzenle.cshtml",
+              "RelativeToolTip": "MVCNorthwind\\Views\\Kategori\\Duzenle.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T15:07:01.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mevlut\\source\\repos\\MVCNorthwind\\MVCNorthwind\\Views\\Kategori\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCNorthwind\\Views\\Kategori\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mevlut\\source\\repos\\MVCNorthwind\\MVCNorthwind\\Views\\Kategori\\Index.cshtml",
+              "RelativeToolTip": "MVCNorthwind\\Views\\Kategori\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T15:00:01.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_LayoutPage1.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mevlut\\source\\repos\\MVCNorthwind\\MVCNorthwind\\Views\\Shared\\_LayoutPage1.cshtml",
+              "RelativeDocumentMoniker": "MVCNorthwind\\Views\\Shared\\_LayoutPage1.cshtml",
+              "ToolTip": "C:\\Users\\Mevlut\\source\\repos\\MVCNorthwind\\MVCNorthwind\\Views\\Shared\\_LayoutPage1.cshtml",
+              "RelativeToolTip": "MVCNorthwind\\Views\\Shared\\_LayoutPage1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T14:55:33.545Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Duzenle.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mevlut\\source\\repos\\MVCNorthwind\\MVCNorthwind\\Views\\Kategori\\Duzenle.cshtml",
-              "RelativeDocumentMoniker": "MVCNorthwind\\Views\\Kategori\\Duzenle.cshtml",
-              "ToolTip": "C:\\Users\\Mevlut\\source\\repos\\MVCNorthwind\\MVCNorthwind\\Views\\Kategori\\Duzenle.cshtml",
-              "RelativeToolTip": "MVCNorthwind\\Views\\Kategori\\Duzenle.cshtml",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAACEAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-01T15:42:35.107Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Ekle.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mevlut\\source\\repos\\MVCNorthwind\\MVCNorthwind\\Views\\Kategori\\Ekle.cshtml",
-              "RelativeDocumentMoniker": "MVCNorthwind\\Views\\Kategori\\Ekle.cshtml",
-              "ToolTip": "C:\\Users\\Mevlut\\source\\repos\\MVCNorthwind\\MVCNorthwind\\Views\\Kategori\\Ekle.cshtml",
-              "RelativeToolTip": "MVCNorthwind\\Views\\Kategori\\Ekle.cshtml",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAmwCsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-01T14:39:17.658Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BasicLayout.css",
-              "DocumentMoniker": "C:\\Users\\Mevlut\\source\\repos\\MVCNorthwind\\MVCNorthwind\\Assets\\CSS\\BasicLayout.css",
-              "RelativeDocumentMoniker": "MVCNorthwind\\Assets\\CSS\\BasicLayout.css",
-              "ToolTip": "C:\\Users\\Mevlut\\source\\repos\\MVCNorthwind\\MVCNorthwind\\Assets\\CSS\\BasicLayout.css",
-              "RelativeToolTip": "MVCNorthwind\\Assets\\CSS\\BasicLayout.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-01T14:04:18.381Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mevlut\\source\\repos\\MVCNorthwind\\MVCNorthwind\\Views\\Kategori\\Index.cshtml",
-              "RelativeDocumentMoniker": "MVCNorthwind\\Views\\Kategori\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Mevlut\\source\\repos\\MVCNorthwind\\MVCNorthwind\\Views\\Kategori\\Index.cshtml",
-              "RelativeToolTip": "MVCNorthwind\\Views\\Kategori\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-01T13:48:26.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_LayoutPage1.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mevlut\\source\\repos\\MVCNorthwind\\MVCNorthwind\\Views\\Shared\\_LayoutPage1.cshtml",
-              "RelativeDocumentMoniker": "MVCNorthwind\\Views\\Shared\\_LayoutPage1.cshtml",
-              "ToolTip": "C:\\Users\\Mevlut\\source\\repos\\MVCNorthwind\\MVCNorthwind\\Views\\Shared\\_LayoutPage1.cshtml",
-              "RelativeToolTip": "MVCNorthwind\\Views\\Shared\\_LayoutPage1.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-01T13:37:35.476Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "KategoriController.cs",
               "DocumentMoniker": "C:\\Users\\Mevlut\\source\\repos\\MVCNorthwind\\MVCNorthwind\\Controllers\\KategoriController.cs",
               "RelativeDocumentMoniker": "MVCNorthwind\\Controllers\\KategoriController.cs",
               "ToolTip": "C:\\Users\\Mevlut\\source\\repos\\MVCNorthwind\\MVCNorthwind\\Controllers\\KategoriController.cs",
               "RelativeToolTip": "MVCNorthwind\\Controllers\\KategoriController.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAAAD0AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T13:32:22.613Z"
+              "WhenOpened": "2025-02-08T14:52:15.114Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
+              "Title": "UrunController.cs",
+              "DocumentMoniker": "C:\\Users\\Mevlut\\source\\repos\\MVCNorthwind\\MVCNorthwind\\Controllers\\UrunController.cs",
+              "RelativeDocumentMoniker": "MVCNorthwind\\Controllers\\UrunController.cs",
+              "ToolTip": "C:\\Users\\Mevlut\\source\\repos\\MVCNorthwind\\MVCNorthwind\\Controllers\\UrunController.cs",
+              "RelativeToolTip": "MVCNorthwind\\Controllers\\UrunController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T14:39:58.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mevlut\\source\\repos\\MVCNorthwind\\MVCNorthwind\\Views\\Urun\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCNorthwind\\Views\\Urun\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Mevlut\\source\\repos\\MVCNorthwind\\MVCNorthwind\\Views\\Urun\\Create.cshtml",
+              "RelativeToolTip": "MVCNorthwind\\Views\\Urun\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwCIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T14:18:27.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ekle.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mevlut\\source\\repos\\MVCNorthwind\\MVCNorthwind\\Views\\Kategori\\Ekle.cshtml",
+              "RelativeDocumentMoniker": "MVCNorthwind\\Views\\Kategori\\Ekle.cshtml",
+              "ToolTip": "C:\\Users\\Mevlut\\source\\repos\\MVCNorthwind\\MVCNorthwind\\Views\\Kategori\\Ekle.cshtml",
+              "RelativeToolTip": "MVCNorthwind\\Views\\Kategori\\Ekle.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABwAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T14:21:04.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "FormLayout.css",
               "DocumentMoniker": "C:\\Users\\Mevlut\\source\\repos\\MVCNorthwind\\MVCNorthwind\\Assets\\CSS\\FormLayout.css",
               "RelativeDocumentMoniker": "MVCNorthwind\\Assets\\CSS\\FormLayout.css",
               "ToolTip": "C:\\Users\\Mevlut\\source\\repos\\MVCNorthwind\\MVCNorthwind\\Assets\\CSS\\FormLayout.css",
               "RelativeToolTip": "MVCNorthwind\\Assets\\CSS\\FormLayout.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-01T14:40:10.989Z"
+              "WhenOpened": "2025-02-08T14:54:27.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BasicLayout.css",
+              "DocumentMoniker": "C:\\Users\\Mevlut\\source\\repos\\MVCNorthwind\\MVCNorthwind\\Assets\\CSS\\BasicLayout.css",
+              "RelativeDocumentMoniker": "MVCNorthwind\\Assets\\CSS\\BasicLayout.css",
+              "ToolTip": "C:\\Users\\Mevlut\\source\\repos\\MVCNorthwind\\MVCNorthwind\\Assets\\CSS\\BasicLayout.css",
+              "RelativeToolTip": "MVCNorthwind\\Assets\\CSS\\BasicLayout.css",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-08T14:54:29.918Z",
+              "EditorCaption": ""
             }
           ]
         }

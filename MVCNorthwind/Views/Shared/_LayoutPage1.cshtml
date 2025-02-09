@@ -12,6 +12,11 @@
         @Html.ActionLink("Anasayfa", "Index", "Home", null)
         <a href="@Url.Action("Index","Kategori")">Kategori Listesi</a>
         <a href="@Url.Action("Ekle","Kategori")">Kategori Ekle</a>
+        <hr />
+        <a href="@Url.Action("Index","Urun")">Ürün Listele</a>
+        <a href="@Url.Action("Create","Urun")">Ürün Ekle</a>
+
+
     </div>
     <div class="anaIcerik">
         @RenderBody()
